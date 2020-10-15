@@ -2,5 +2,4 @@
 
 ## TUİK VERİLERİ
 
-(https://data.tuik.gov.tr/tr/)[TUIK DATA]
-
+[TUIK DATA] (https://data.tuik.gov.tr/tr/)
