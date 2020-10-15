@@ -2,6 +2,8 @@
 
 ## CBS Veri
 
+[The Humanitarian Data Exchange](https://data.humdata.org/)
+
 
 
 ## TUİK VERİ
