@@ -20,3 +20,7 @@
 
 [GeoFabrik] (http://download.geofabrik.de/)
 
+## DOĞA Veri
+
+{Natural Earth] (https://www.naturalearthdata.com/)
+
