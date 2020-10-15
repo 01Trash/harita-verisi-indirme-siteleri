@@ -12,3 +12,7 @@
 
 [Copernicus] (https://land.copernicus.eu/)
 
+## TOPRAK Veri
+
+[GeoNetwork] (http://www.fao.org/geonetwork/srv/en/metadata.show?id=14116)
+
