@@ -12,6 +12,8 @@
 
 [The home of the U.S. Government’s open data](https://www.data.gov/)
 
+[EEA reference grid](https://www.eea.europa.eu/data-and-maps/data/eea-reference-grids-2)
+
 
 
 ## TUİK VERİ
