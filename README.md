@@ -1,6 +1,6 @@
 # Haritacılık için güzel siteler...
 
-## Coğrafi Bilgi Sistemleri Veri
+## Coğrafi Bilgi Sistemleri (CBS) Veri
 
 [The Humanitarian Data Exchange](https://data.humdata.org/)
 
