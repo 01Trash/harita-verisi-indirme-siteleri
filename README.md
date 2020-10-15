@@ -5,7 +5,7 @@
 <p><a href="https://gisgeography.com/" target="_blank">GIS Geography</a></p>
 <p><a href="http://www.diva-gis.org/" target="_blank">DIVA-GIS</a></p>
 <p><a href="http://freegisdata.rtwilson.com/#home" target="_blank">Free GIS Data</a></p>
-<p><a href="(https://www.data.gov/" target="_blank">The home of the U.S. Government’s open data</a></p>
+<p><a href="(https://www.data.gov/" target="_blank">DATA gov</a></p>
 <p><a href="https://www.eea.europa.eu/data-and-maps/data/eea-reference-grids-2" target="_blank">EEA reference grid</a></p>
 <p><a href="http://legacy.lib.utexas.edu/maps/ams/turkey/" target="_blank">Great Britain War Office</a></p>
 
