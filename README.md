@@ -26,3 +26,11 @@
 
 ## Sayısal Yükseklik Modeli (DEM) ve UYDU Veri
 
+[GADM] (https://gadm.org/index.html)
+
+[Coverage map] (http://www.viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org3.htm)
+
+[SRTM Data] (http://srtm.csi.cgiar.org/srtmdata/)
+
+[EarthExplorer] (https://earthexplorer.usgs.gov/)
+
