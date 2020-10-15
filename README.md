@@ -6,6 +6,10 @@
 
 [GIS Geography](https://gisgeography.com/)
 
+[DIVA-GIS](http://www.diva-gis.org/)
+
+[Free GIS Data](http://freegisdata.rtwilson.com/#home)
+
 
 
 ## TUİK VERİ
