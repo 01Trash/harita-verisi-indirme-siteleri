@@ -22,7 +22,7 @@
 
 ## DOĞA Veri
 
-{Natural Earth](https://www.naturalearthdata.com/)
+[Natural Earth](https://www.naturalearthdata.com/)
 
 ## Sayısal Yükseklik Modeli (DEM) ve UYDU Veri
 
